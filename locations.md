@@ -1,6 +1,6 @@
-# Where are we all from? 🌏  
 
+# Where are we all from? 🌏
+Illinois, USA
 Chicago, IL  
 Boston, MA 
 Little Rock, AR  
-
