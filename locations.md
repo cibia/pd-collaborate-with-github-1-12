@@ -1,10 +1,6 @@
-master
 # Where are we all from? 🌏
-India
-
-# Where are we all from? 🌏  
-
+Illinois, USA
 Chicago, IL  
 Boston, MA 
 Little Rock, AR  
-master
+Chennai,India
